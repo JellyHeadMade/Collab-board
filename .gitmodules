@@ -1,1 +1,3 @@
-
+[submodule "Collab-board-UI"]
+	path = Collab-board-UI
+	url = https://github.com/JellyHeadMade/Collab-board-UI.git
